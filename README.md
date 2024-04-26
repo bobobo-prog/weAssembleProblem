@@ -14,6 +14,8 @@ I've used the State Design Pattern to create this command line application becau
 
 Instructions on using :
 Pretty Straight forward application , User will be prompted with the following choices and has to pick and choose what they have to do:
+
+
 Products to choose from: 
 Coke Product{  quantity=10, eachPrice=40 Rs totalPrice=400 Rs}
 Pepsi Product{  quantity=10, eachPrice=40 Rs totalPrice=400 Rs}
